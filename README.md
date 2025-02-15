@@ -1,25 +1,87 @@
+<h1 align="center">Hi, I'm Amit Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fitness_amit_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/amit-singh-1788b4171) 
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=600&size=30&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Amit+Singh+;Crafting+Innovative+Solutions;Passionate+about+Technology+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</h3>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amitsingh790634&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amitsingh790634&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsingh790634&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <samp>
+    Hey, My name is <em>Amit Singh</em>, and I am a passionate Flutter Developer with expertise in Dart, Firebase, AWS, and DevOps. I thrive on building scalable, high-performance mobile applications and continuously exploring the latest tech trends. 🚀 Let's innovate together!
+  </samp>
+  <br/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amitsingh790634&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+
+## ⚡ Tech Stack & Skills
+
+<p align="center">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="70" />
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="70" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" height="70" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="70" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="70" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/MongoDB_Logo.svg" height="70" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="70" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitsingh790634&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitsingh790634&theme=gruvbox&hide_border=false" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsingh790634&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amitsingh790634&theme=default&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amitsingh790634&theme=onedark&margin-w=4" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amitsingh790634&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌐 Socials:
+<p align="center">
+  <a href="https://instagram.com/fitness_amit_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/amit-singh-1788b4171">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+## 💰 Support My Work
+<p align="center">
+  <a href="https://buymeacoffee.com/amitsingh790634">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://paypal.me/@amit9068">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amitsingh790634&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amitsingh790634) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@amit9068) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![VisitorCount](https://profile-counter.glitch.me/amitsingh790634/count.svg)
