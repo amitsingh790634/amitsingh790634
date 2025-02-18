@@ -21,66 +21,37 @@
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
-## 🚀 Skills & Technologies
-
 ### **DevOps & Cloud**
-   <p>
-   <a href="https://www.linux.org/" target="_blanfalse" />
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="70" />
-  </a>
-   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"  height="70" />
-  </a> 
-  <a href="https://cloud.google.com/" target="_blank" >
-    <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png"  height="70" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"  height="75" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="80" />
-  </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="80" />
-  </a> 
-  <a href="https://argoproj.github.io/cd/" target="_blank" >
-    <img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png"  height="80" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="80" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
-  </a>
-   </a>
-    <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="80" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="80" />
-  </a>
- </a>
-    <a href="https://pages.github.com/?(null)" target="_blank" >
-   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" />
-  </a>
- </a>
-  <a href="https://code.visualstudio.com/" target="_blank" >
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
-  </a>
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="80" />
-  </a>
-  </p>
-  
+   
+   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+   ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+   ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+   
 ### **Mobile & Web Development**
-   <p>
-    <a href="https://flutter.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="70" /></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" height="70" /></a>
-    <a href="https://developer.android.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" height="70" /></a>
-  </p>
+   
+   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+   ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+   ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=api&logoColor=white)
+   ![Provider](https://img.shields.io/badge/Provider-FFC107?style=for-the-badge&logo=flutter&logoColor=white)
+   ![GetX](https://img.shields.io/badge/GetX-6800FF?style=for-the-badge&logo=getx&logoColor=white)
+   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+   ![Debugging](https://img.shields.io/badge/Debugging-4CAF50?style=for-the-badge&logo=android-studio&logoColor=white)
+   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+   ![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
+   ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+   ![Version Control](https://img.shields.io/badge/Version_Control-008080?style=for-the-badge&logo=git&logoColor=white)
+
 
 ### **Monitoring & CI/CD**
    <p>
@@ -117,14 +88,22 @@
 ![](https://github-profile-trophy.vercel.app/?username=amitsingh790634&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📫 How to reach me? 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/amitsinghdevops/) 👨🏻‍💻  
-- Follow me on [Hashnode](https://hashnode.com/@amitsingh790634) 🌐  
-- Shoot Me an [Email](mailto:amitsingh790634@gmail.com) 💌  
-- Shoot Me an [Email](mailto:devops.amit2000@gmail.com) 💌
-- Message Me on [WhatsApp](https://wa.me/9068220575) 📲 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitsinghdevops/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@amitsingh790634)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitsingh790634@gmail.com)
+[![Work Email](https://img.shields.io/badge/Work%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devops.amit2000@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9068220575)
+
 
 <div align="center">
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=600&lines=Thanks%2C+You're+Awesome+%3A)" 
+      alt="Typing SVG" />
+    </a>
+  </p>
+
 
 #### Thanks for visiting ❤️
 ![VisitorCount](https://profile-counter.glitch.me/amitsingh790634/count.svg)
