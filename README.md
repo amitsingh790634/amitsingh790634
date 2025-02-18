@@ -1,3 +1,7 @@
+<div align=center>
+
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=100&section=header"/>](https://capsule-render.vercel.app/)
+
 <h1 align="center">Hi, I'm Amit Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
@@ -5,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Amit+Singh+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" />
   </a>
 </h3>
-
+</div>
 <p align="center" >
   <samp>
     Hey, My name is <em>Amit Singh</em> and I am a DevOps⚙️ Engineer and a Flutter Developer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of **cloud computing, containerization, automation, and mobile app development** enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools, Flutter technologies, and methodologies.🚀
@@ -106,6 +110,8 @@
 </details>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amitsingh790634&theme=default&no-frame=false&no-bg=false&margin-w=4)
