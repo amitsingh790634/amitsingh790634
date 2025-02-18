@@ -17,7 +17,7 @@
   <br/>
 </p>
 
-<p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amitsingh790634&theme=algolia" alt="amitsingh790634" /></p>
+
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
